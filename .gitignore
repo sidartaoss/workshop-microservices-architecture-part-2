@@ -1,0 +1,15 @@
+.idea/
+.settings/
+.git/
+
+build_project.json
+buildspec.yml
+CatalogService.iml
+README.txt
+
+.classpath
+.factorypath
+.project
+
+
+
